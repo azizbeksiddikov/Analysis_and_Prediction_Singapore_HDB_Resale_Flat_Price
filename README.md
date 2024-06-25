@@ -89,13 +89,3 @@ The following chart shows the top 5 most important features affecting HDB resale
 3. **Applications**:
    - The insights and predictions can assist policymakers, real estate agents, and buyers in making informed decisions.
 
-## Repository Structure
-- **data/**: Directory containing the dataset.
-- **notebooks/**: Jupyter notebooks with data analysis and model building.
-- **scripts/**: Python scripts for data preprocessing and model training.
-- **results/**: Directory containing the results of the analysis and model evaluation.
-
-## How to Run
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/hdb-resale-prices-analysis.git
