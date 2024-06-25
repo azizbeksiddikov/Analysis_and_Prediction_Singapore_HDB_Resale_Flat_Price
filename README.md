@@ -1,5 +1,11 @@
 # Analysis and Prediction of Singapore HDB Resale Flat Prices (2017-2024)
 
+## Links:
+Dataset:
+Dataset: https://www.kaggle.com/datasets/darrylljk/singapore-hdb-resale-flat-prices-2017-2024
+Report: https://docs.google.com/document/d/1GRqU_-iOh1_YoJD_mTOsACidcd0zvV1mMWc6pY8Xfk8/edit?usp=sharing
+Tableau: https://public.tableau.com/views/SingaporeHDBResaleFlatPrices/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+
 ## Objective
 The main goal of this project is to analyze the resale prices of HDB flats in Singapore from January 2017 to June 2024 and build predictive models to estimate future resale prices based on various features.
 
