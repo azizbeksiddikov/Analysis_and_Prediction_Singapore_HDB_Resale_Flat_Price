@@ -3,7 +3,9 @@
 ## Links:
 Dataset:
 Dataset: https://www.kaggle.com/datasets/darrylljk/singapore-hdb-resale-flat-prices-2017-2024
+
 Report: https://docs.google.com/document/d/1GRqU_-iOh1_YoJD_mTOsACidcd0zvV1mMWc6pY8Xfk8/edit?usp=sharing
+
 Tableau: https://public.tableau.com/views/SingaporeHDBResaleFlatPrices/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 ## Objective
